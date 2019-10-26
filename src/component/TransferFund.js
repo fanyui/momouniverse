@@ -42,7 +42,6 @@ function TransferFund(props) {
     const submit = () => {
         const body = { 
             _email: 'fanyuiharisu@gmail.com',
-            _clP:'v_trbCh2',
             _tel: 675955931,
             _amount: amount* currency.rating,
     

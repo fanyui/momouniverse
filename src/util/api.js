@@ -11,16 +11,16 @@ export function getInnitialData(page) {
     //     .then((response) => response.json())
 }
 export function submitExchange(succeed = 1, body = {}){
-    return helper.post(momourl, body)
-        .then((response) => response.json())
-    /*return new Promise((resolve, reject) => {
+    // return helper.post(momourl, body)
+    //     .then((response) => response.json())
+    return new Promise((resolve, reject) => {
         if (succeed == 1)
          setTimeout(() => resolve({ data: { name: "Exchange complet", status: "success" } }), 1000)
         else{
             setTimeout(() => reject({ data: { name: "Exchange failed", status: "fail" } }), 1000)
 
         }
-    })*/
+    })
 }
 
 //get the list of supported currencies from the api
