@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/momouniverse/static/css/main.e747113e.chunk.css",
+    "main.js": "/momouniverse/static/js/main.3cf79bcd.chunk.js",
+    "main.js.map": "/momouniverse/static/js/main.3cf79bcd.chunk.js.map",
+    "runtime-main.js": "/momouniverse/static/js/runtime-main.3cb4d0da.js",
+    "runtime-main.js.map": "/momouniverse/static/js/runtime-main.3cb4d0da.js.map",
+    "static/js/2.9168c99c.chunk.js": "/momouniverse/static/js/2.9168c99c.chunk.js",
+    "static/js/2.9168c99c.chunk.js.map": "/momouniverse/static/js/2.9168c99c.chunk.js.map",
+    "index.html": "/momouniverse/index.html",
+    "precache-manifest.5c0cb0db355c8da83be80a6dfa7869f7.js": "/momouniverse/precache-manifest.5c0cb0db355c8da83be80a6dfa7869f7.js",
+    "service-worker.js": "/momouniverse/service-worker.js",
+    "static/css/main.e747113e.chunk.css.map": "/momouniverse/static/css/main.e747113e.chunk.css.map",
+    "static/media/logo.svg": "/momouniverse/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb4d0da.js",
+    "static/js/2.9168c99c.chunk.js",
+    "static/css/main.e747113e.chunk.css",
+    "static/js/main.3cf79bcd.chunk.js"
+  ]
+}
