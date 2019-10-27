@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4af9c52459b559e19438c0fdb263f5ff",
+    "revision": "5aefe903f324cde714f7a1555d32d618",
     "url": "/momouniverse/index.html"
   },
   {
-    "revision": "be3e7c2429593904822e",
+    "revision": "ddd69bca20d41fe05f79",
     "url": "/momouniverse/static/css/main.e747113e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/momouniverse/static/js/2.9168c99c.chunk.js"
   },
   {
-    "revision": "be3e7c2429593904822e",
-    "url": "/momouniverse/static/js/main.3cf79bcd.chunk.js"
+    "revision": "ddd69bca20d41fe05f79",
+    "url": "/momouniverse/static/js/main.ca8061e9.chunk.js"
   },
   {
     "revision": "f28f467853e4f1a131ac",
